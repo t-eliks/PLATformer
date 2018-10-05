@@ -1,2 +1,2 @@
 # PLATformer
-PLATformer - a uni homework project. Game created using a mandatory ScreenKTU class.
+PLATformer - a JAVA uni homework project. Game created using a mandatory ScreenKTU class.
